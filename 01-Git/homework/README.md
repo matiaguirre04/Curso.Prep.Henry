@@ -113,7 +113,7 @@ En este momento, podemos usar el comando de git "status", esto nos mostrará los
 ```bash
   $ git status
 ```
-
+gola
 Deberías ver algo parecido a estas líneas:
 
 ```bash
